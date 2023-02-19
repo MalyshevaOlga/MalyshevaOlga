@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Olga+Malysheva's+Github+Profile..)](https://git.io/typing-svg)
 
 <h1 align="center">
-# Hello World <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+# Hello World <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 , I'm Olga Malysheva</h1>
 <h3 align="center">Frontend Developer
 </h3>
@@ -25,7 +25,6 @@
 
 ![MalyshevaOlga GitHub stats](https://github-readme-stats.vercel.app/api?username=MalyshevaOlga&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MalyshevaOlga&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MalyshevaOlga)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
 - <a href="" target="blank">LinkedIn</a>
