@@ -6,7 +6,7 @@
 , I'm Olga Malysheva</h1>
 <h3 align="center">Frontend Developer
 </h3>
-  <iframe src="https://gifer.com/embed/3AyY" width=480 height=275.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
+  <img align="center" img src="https://i.gifer.com/3AyY.gif" width="100%">
 <br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MalyshevaOlga) 
