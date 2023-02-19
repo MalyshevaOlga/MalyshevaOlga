@@ -8,7 +8,7 @@
 </h3>
 <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/271090) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MalyshevaOlga) 
  
 <!-- <a href='[https://archiveprogram.github.com/MalyshevaOlga](https://github.com/MalyshevaOlga/)'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <br/> -->
